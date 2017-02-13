@@ -1,0 +1,5 @@
+npm init //fill properties
+rm package.json
+npm init --force (-f)// same npm init --yes (-y)
+npm run // list all script
+npm test (t)
