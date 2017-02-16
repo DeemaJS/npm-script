@@ -7,3 +7,5 @@ npm run // list all script
 npm test (t)
 
 ## second lesson
+package.json
+ -- npm.scripts.test: "mocha --require babel-register"
